@@ -1,0 +1,13 @@
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Exchanger.STAAD.exe.config
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Exchanger.STAAD.exe
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Exchanger.STAAD.pdb
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Prime.Base.Math.dll
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Prime.Base.Media.dll
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\bin\Debug\Microstruct.Prime.Base.Theme.dll
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.Console.csproj.AssemblyReference.cache
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Interop.OpenSTAADUI.dll
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.Console.csproj.ResolveComReference.cache
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.Console.csproj.CoreCompileInputs.cache
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.Console.csproj.CopyComplete
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.exe
+D:\zw\Microstruct.Prime\Microstruct.Exchanger.STAAD\Microstruct.Exchanger.STAAD.Console\obj\Debug\Microstruct.Exchanger.STAAD.pdb

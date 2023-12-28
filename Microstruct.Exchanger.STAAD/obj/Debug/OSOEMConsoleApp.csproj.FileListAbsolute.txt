@@ -1,0 +1,20 @@
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.exe.config
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.exe
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.pdb
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csprojAssemblyReference.cache
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\Interop.OpenSTAADUI.dll
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.ResolveComReference.cache
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.exe
+C:\Users\Anulekha.Chatterjee\OneDrive - Bentley Systems, Inc\Documents\Visual Studio 2017\Projects\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.pdb
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.exe.config
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\OSOEMConsoleApp.pdb
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\Debug\StaadPro.dll
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.AssemblyReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\Interop.OpenSTAADUI.dll
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.ResolveComReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.CoreCompileInputs.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.csproj.CopyComplete
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\Debug\OSOEMConsoleApp.pdb

@@ -1,0 +1,9 @@
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\bin\x64\Release\Microstruct.Exchanger.STAAD.exe.config
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\bin\x64\Release\Microstruct.Exchanger.STAAD.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\bin\x64\Release\Microstruct.Exchanger.STAAD.pdb
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Microstruct.Exchanger.STAAD.csproj.AssemblyReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Interop.OpenSTAADUI.dll
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Microstruct.Exchanger.STAAD.csproj.ResolveComReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Microstruct.Exchanger.STAAD.csproj.CoreCompileInputs.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Microstruct.Exchanger.STAAD.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\Microstruct.Exchanger.STAAD\obj\x64\Release\Microstruct.Exchanger.STAAD.pdb

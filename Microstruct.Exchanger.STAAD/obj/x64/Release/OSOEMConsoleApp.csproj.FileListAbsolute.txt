@@ -1,0 +1,11 @@
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\x64\Release\OSOEMConsoleApp.exe.config
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\x64\Release\OSOEMConsoleApp.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\x64\Release\OSOEMConsoleApp.pdb
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\bin\x64\Release\StaadPro.dll
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.csproj.AssemblyReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\Interop.OpenSTAADUI.dll
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.csproj.ResolveComReference.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.csproj.CoreCompileInputs.cache
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.csproj.CopyComplete
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.exe
+D:\Test\OpenSTAAD\OpenSTAAD\OSOEMConsoleApp\OSOEMConsoleApp\obj\x64\Release\OSOEMConsoleApp.pdb
