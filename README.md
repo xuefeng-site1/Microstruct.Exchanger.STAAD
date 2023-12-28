@@ -5,7 +5,7 @@ This Visual Studio project is a C# wrapper for OpenSTAAD, enabling users to seam
 
 Included : 
 1. The Microstruct Datastructure/Dataset for structural analysis to enbale to full data view of STAAD pro data. Also a view control under WPF is available to see all the result with datagrids. This function is extracted from Microstruct, more can be available upon request
-2. Microstruct math library that enables unit conversion between all the frequently used units. User can design specific unit system then Microstruct math will help unit participating all the aspect of your calc reqirements.
+2. Microstruct math library that enables unit conversion between all the frequently used units. User can design specific unit system then Microstruct math will help real unit calc for your computing requirements.
  
 Installation:
 1.	Clone the repository.
