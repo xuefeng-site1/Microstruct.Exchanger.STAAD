@@ -21,4 +21,4 @@ Contributions are welcome! If you'd like to contribute to this project, please a
 5.	Open a pull request on GitHub.
    
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
