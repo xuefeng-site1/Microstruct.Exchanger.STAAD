@@ -1,4 +1,5 @@
 OpenSTAAD Visual Studio Project
+
 Overview
 This Visual Studio project is a C# wrapper for OpenSTAAD, enabling users to seamlessly integrate OpenSTAAD functionality into their C# applications. The project is ready to compile, providing users with a straightforward way to leverage the capabilities of OpenSTAAD within their C# projects.
 
